@@ -26,7 +26,7 @@ const navSlide = () => {
 
 navSlide();
 
-const texts = ["websites" , "Illustrations" , "pancake"];
+const texts = ["websites" , "web apps" , "cup cake"];
 let count = 0;
 let index = 0;
 let currentText = " ";
